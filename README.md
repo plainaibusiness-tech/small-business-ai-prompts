@@ -8,6 +8,7 @@ Made by Kodopop: practical tech, made simple. https://www.youtube.com/@thekodopo
 
 - `invoices.md`: create an invoice, email it, and send a polite payment reminder
 - `quotes.md`: write a professional quote and a short email to send with it
+- `review-replies.md`: write a short public reply to a customer review, with one next step and a check list
 
 ## Rules we follow
 
