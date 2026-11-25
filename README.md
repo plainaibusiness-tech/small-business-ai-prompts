@@ -2,7 +2,7 @@
 
 Free, copy-and-paste prompts for everyday small business paperwork. Fill in the [brackets], paste into the AI tool you already use, and read the result before you send it.
 
-Made by Kodopop: practical tech, made simple. https://www.youtube.com/@Kodopop
+Made by Kodopop: practical tech, made simple. https://www.youtube.com/@thekodopop
 
 ## What is in here
 
