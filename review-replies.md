@@ -23,4 +23,4 @@ Names and dates are right, nothing promised that you did not approve, no private
 
 ## Notes
 Written with AI assistance and tested on ChatGPT. Writing aid, not legal advice. Free to copy.
-Made by Kodopop: https://www.youtube.com/@thekodopop . Free sample of two more setups: https://thekodopop.gumroad.com/l/free-sample
+Made by Kodopop: https://www.youtube.com/channel/UCt3sV84fvJM2CmGGDDDb85g . Free sample of two more setups: https://thekodopop.gumroad.com/l/free-sample
