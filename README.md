@@ -2,7 +2,7 @@
 
 Free, copy-and-paste prompts for everyday small business paperwork. Fill in the [brackets], paste into the AI tool you already use, and read the result before you send it.
 
-Made by Kodopop: practical tech, made simple. https://www.youtube.com/@thekodopop Free sample of two more setups (Quote Writer + Complaint Reply): https://thekodopop.gumroad.com/l/free-sample
+Made by Kodopop: practical tech, made simple. https://www.youtube.com/channel/UCt3sV84fvJM2CmGGDDDb85g Free sample of two more setups (Quote Writer + Complaint Reply): https://thekodopop.gumroad.com/l/free-sample?utm_source=github&utm_medium=readme&utm_campaign=prompts
 
 ## What is in here
 
