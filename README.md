@@ -1,8 +1,8 @@
 # Small business AI prompt templates
 
-Free, copy-and-paste prompts for everyday small business paperwork. Fill in the [brackets], paste into the AI tool you already use, and read the result before you send it.
+Free, copy-and-paste prompts for everyday small business paperwork. Fill in the [brackets], paste into ChatGPT, and read the result before you send it. Written for ChatGPT. Not tested on other assistants.
 
-Made by Kodopop: practical tech, made simple. https://www.youtube.com/channel/UCt3sV84fvJM2CmGGDDDb85g Free sample of two more setups (Quote Writer + Complaint Reply): https://thekodopop.gumroad.com/l/free-sample
+Made by Kodopop: practical tech, made simple. https://www.youtube.com/channel/UCt3sV84fvJM2CmGGDDDb85g Free sample of two fuller setups (Quote Writer + Complaint Reply): https://thekodopop.gumroad.com/l/free-sample
 
 ## What is in here
 
