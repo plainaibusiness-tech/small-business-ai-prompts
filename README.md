@@ -9,6 +9,7 @@ Made by Kodopop: practical tech, made simple. https://www.youtube.com/channel/UC
 - `invoices.md`: create an invoice, email it, and send a polite payment reminder
 - `quotes.md`: write a professional quote and a short email to send with it
 - `review-replies.md`: write a short public reply to a customer review, with one next step and a check list
+- `late-payment-reminders.md`: three polite reminders for an overdue invoice, from friendly to firm
 
 ## Rules we follow
 
@@ -16,6 +17,7 @@ Made by Kodopop: practical tech, made simple. https://www.youtube.com/channel/UC
 2. Never paste a client's bank details or private information into an AI tool.
 3. The prompts tell the AI not to add anything you did not give it. Keep it that way.
 4. These are writing aids, not legal, tax or accounting advice.
+5. Written with AI assistance. Check everything before you use it.
 
 ## License
 
