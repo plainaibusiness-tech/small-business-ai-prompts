@@ -1,6 +1,6 @@
 # Late payment reminders
 
-Three short reminders for an overdue invoice, from first to last. Fill in the [brackets], paste into the AI tool you already use, and read the result before you send it.
+Three short reminders for an overdue invoice, from first to last. Fill in the [brackets], paste into ChatGPT, and read the result before you send it. Written for ChatGPT. Not tested on other assistants.
 
 ## Prompt 1: first reminder
 
