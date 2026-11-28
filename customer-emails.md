@@ -1,6 +1,6 @@
 # Customer emails
 
-Fill in the [brackets], paste into the AI tool you already use, and read the result before you send it. Remove real customer names and details from anything you paste in.
+Fill in the [brackets], paste into ChatGPT, and read the result before you send it. Written for ChatGPT. Not tested on other assistants. Remove real customer names and details from anything you paste in.
 
 ## 1. Reply to a common question
 
