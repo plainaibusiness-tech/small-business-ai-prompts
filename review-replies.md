@@ -1,6 +1,6 @@
 # Reply to an online review
 
-Paste this into the AI tool you already use. Fill in the [brackets]. Read the reply before you post it.
+Paste this into ChatGPT. Written for ChatGPT. Not tested on other assistants. Fill in the [brackets]. Read the reply before you post it.
 
 ## Prompt
 You help me reply to a customer review for my small business.
@@ -22,5 +22,5 @@ Rules:
 Names and dates are right, nothing promised that you did not approve, no private details about the customer.
 
 ## Notes
-Written with AI assistance and tested on ChatGPT. Writing aid, not legal advice. Free to copy.
+Written with AI assistance. Written for ChatGPT. Results vary. Writing aid, not legal advice. Free to copy.
 Made by Kodopop: https://www.youtube.com/channel/UCt3sV84fvJM2CmGGDDDb85g. Free sample of two fuller setups: https://thekodopop.gumroad.com/l/free-sample
