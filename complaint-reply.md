@@ -1,6 +1,6 @@
 # Complaint reply prompts
 
-Fill in the [brackets], paste into ChatGPT, and read the result before you send it. Written for ChatGPT. Not tested on other assistants. Never paste customer names, addresses, phone numbers or payment details into an AI prompt.
+Fill in the [brackets], paste into ChatGPT, and read the reply before you send it. Written for ChatGPT. Not tested on other assistants. Never paste customer names, addresses, phone numbers or payment details into an AI prompt.
 
 ## 1. Calm first reply
 
